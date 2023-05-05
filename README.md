@@ -34,3 +34,7 @@ Jika memiliki pertanyaan atau saran terkait proyek ini, silakan hubungi:
 Nama: Akbar Hadi Subowo
 
 Email: akbarhadisubowo9@gmail.com
+
+Langkah configurasi Server
+
+ansible-playbook playbook.yml -i inventory.ini
